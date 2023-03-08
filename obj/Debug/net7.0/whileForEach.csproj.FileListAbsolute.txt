@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\whileForEach\obj\Debug\net7.0\whileForEach.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\whileForEach\obj\Debug\net7.0\whileForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\whileForEach\obj\Debug\net7.0\whileForEach.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\whileForEach\obj\Debug\net7.0\whileForEach.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\whileForEach\obj\Debug\net7.0\whileForEach.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\whileForEach\bin\Debug\net7.0\whileForEach.exe
+C:\Users\MONSTER\GitProject\whileForEach\bin\Debug\net7.0\whileForEach.deps.json
+C:\Users\MONSTER\GitProject\whileForEach\bin\Debug\net7.0\whileForEach.runtimeconfig.json
+C:\Users\MONSTER\GitProject\whileForEach\bin\Debug\net7.0\whileForEach.dll
+C:\Users\MONSTER\GitProject\whileForEach\bin\Debug\net7.0\whileForEach.pdb
+C:\Users\MONSTER\GitProject\whileForEach\obj\Debug\net7.0\whileForEach.dll
+C:\Users\MONSTER\GitProject\whileForEach\obj\Debug\net7.0\refint\whileForEach.dll
+C:\Users\MONSTER\GitProject\whileForEach\obj\Debug\net7.0\whileForEach.pdb
+C:\Users\MONSTER\GitProject\whileForEach\obj\Debug\net7.0\whileForEach.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\whileForEach\obj\Debug\net7.0\ref\whileForEach.dll
